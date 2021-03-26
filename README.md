@@ -24,6 +24,6 @@ Para rodar este projeto, basta inserir a apiKey de usuário do Open Weather Map 
 npm start
 ```
 
-O acesso para desenvolvimento pode efetuado através do link: http://localhost:3000
+O acesso para desenvolvimento pode ser efetuado através do link: http://localhost:3000
 
 Maiores informações sobre a api Open Weather Map podem ser encontradas no link: https://openweathermap.org/
