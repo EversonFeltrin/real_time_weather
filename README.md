@@ -18,7 +18,7 @@ npm install @artsy/fresnel dayjs react-router-dom semantic-ui-css semantic-ui-re
 
 ## Como executar este projeto
 
-Para rodar este projeto, basta inserir a apiKey de usuário do Open Weather Map no env('src/confg/env.js) e rodar o seguinte comando:
+Para rodar este projeto, basta inserir a apiKey de usuário do Open Weather Map no env (path:'src/confg/env.js) e rodar o seguinte comando:
 
 ```
 npm start
