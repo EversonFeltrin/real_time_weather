@@ -1,29 +1,29 @@
-# Projeto Real-Time Weather
+# Real-Time Weather Project
 
-O projeto Real-Time Weather tem o objetivo de facilitar a visualização de dados referentes ao clima em tempo real, tendo como fonte de informação a plataforma openWeather. O sistema apresenta em sua tela inicial dados climáticos atualizados em tempo real, permitindo ainda a visualização da previsão climática para os próximos 7 (sete) dias.
+The Real-Time Weather project aims to facilitate the visualization of weather data in real time, using the openWeather platform as a source of information. The system displays weather data updated in real time on its home screen, also allowing you to view the weather forecast for the next 7 (seven) days.
 
-## Tecnologias utilizadas
+## Technologies used
 
 - React
 - Semanti-Ui
 - Npm
 
-## Dependências
+## Dependencies
 
-O projeto possui as seguintes dependências:
+The project has the following dependencies:
 
 ```
 npm install @artsy/fresnel dayjs react-router-dom semantic-ui-css semantic-ui-react weather-icons-react --save
 ```
 
-## Como executar este projeto
+## How to run this project
 
-Para rodar este projeto, basta inserir a apiKey de usuário do Open Weather Map no env (path:'src/confg/env.js) e rodar o seguinte comando:
+To run this project, simply insert the Open Weather Map user apiKey into the env (path:'src/confg/env.js) and run the following command:
 
 ```
 npm start
 ```
 
-O acesso para desenvolvimento pode ser efetuado através do link: http://localhost:3000
+Access for development can be done through the link: http://localhost:3000
 
-Maiores informações sobre a api Open Weather Map podem ser encontradas no link: https://openweathermap.org/
+More information about the Open Weather Map API can be found at the link: https://openweathermap.org/
